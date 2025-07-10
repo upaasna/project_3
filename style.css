@@ -1,0 +1,31 @@
+footer {
+    height: 300px;
+    width: 100%;
+    background-color: black;
+    color: white;
+    
+    
+}
+.media  {
+    height: 70px;
+    width: 100%;
+    background-color: black;
+    text-align: center;
+    gap: 20px;
+    
+    
+}
+i{
+    padding-inline: 20px;
+    padding-top: 20px;
+}
+
+.footer-con {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.copy {
+    text-align: center;
+    color: gray;
+}
